@@ -4,7 +4,7 @@ It is my new hobby.
 
 I am 23.
 
-The languages I program in 
+The languages I know
 - Haskell
 - Elm
 
