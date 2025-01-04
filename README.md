@@ -1,3 +1,4 @@
+## My BIO
 I like fiction books now, 
 
 It is my new hobby.
@@ -5,6 +6,6 @@ It is my new hobby.
 I am 23.
 
 The languages I know
-- Haskell
-- Elm
+- _Haskell_ 
+- _Elm_
 
