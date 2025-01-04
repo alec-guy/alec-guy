@@ -1,5 +1,5 @@
 ## My BIO
-I like fiction books now, 
+I like fiction books now.
 
 It is my new hobby.
 
